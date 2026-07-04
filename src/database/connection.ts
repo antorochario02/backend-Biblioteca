@@ -1,3 +1,9 @@
+import "./models/Curso";
+import "./models/Usuario";
+import "./models/Materia";
+import "./models/Libro";
+import "./models/Descarga";
+import "./models/Notificacion";
 import mongoose from "mongoose";
 import { env } from "../config/env";
 
