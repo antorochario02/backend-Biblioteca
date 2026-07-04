@@ -1,0 +1,2 @@
+PORT=[aqui poner el puerto]
+v://[agregar usuario del db]:[agregar contraseña del db]@[Agregar Culster].axngqy3.mongodb.net/[Agregar nombre de la db]?appName=[Agregar Culster]
